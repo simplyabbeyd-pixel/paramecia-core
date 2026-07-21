@@ -4,10 +4,27 @@ Central repository for the Paramecia, Triquel, and Hells Branch lore databases, 
 
 ## Core Navigation
 
+- [Canon Index](canon/registries/canon-index.md) — authoritative civilizational stack, Five Founding Paths / Nine Civilizational Paths resolution, Hells Branch laws, naming priorities, and integration rules
 - [Project Core Integration Map](docs/project-core-integration-map.md) — operational map for cosmology, canon governance, care ecology, characters, regions, scenarios, recovery systems, visual canon, and production order
 - [`canon/`](canon/) — authoritative and reviewable world material
 - [`docs/recovery/`](docs/recovery/) — recovery architecture and operational references
 - [`skills/project-0-core-pack-v1/`](skills/project-0-core-pack-v1/) — executable behavioral skills and workflows
+
+## Canon Architecture
+
+The mature civilizational stack is:
+
+1. **Layer 0 — Care Ecology**
+2. **Cosmology — Paramecia, Triquel, First Thoughts, Point 0**
+3. **Three Accords — Recognition → Midnight → Harmony**
+4. **Five Founding Paths / Nine Civilizational Paths**
+5. **Civic and ecological systems**
+6. **Living places and architecture**
+7. **Characters and relationships**
+8. **Scenario runtime**
+9. **Production and recovery architecture**
+
+The Five Paths describe the founding Whisperwood collaboration engine. The Nine Paths describe the mature civilizational ecology. They are related layers, not competing canons.
 
 ## Codex Hub Workflow
 
@@ -17,6 +34,14 @@ When starting a new session or creating a pull request, always follow the core H
 2. Mark what is canon versus volatile
 3. Choose the pass: canon, system, scene, or artifact
 4. Ask Codex for the smallest useful next build
+
+Before creating another master document:
+
+1. search the existing ledger
+2. extend an existing node where possible
+3. identify the affected layer
+4. mark canon status
+5. preserve source anchors and correction history
 
 ## Recovery Architecture
 
@@ -31,6 +56,13 @@ The integrated recovery system lives in:
 
 ## Current Highest-Leverage Build
 
-Create the canon index and naming crosswalk before expanding additional decks, lorebooks, character exports, or visual collections.
+Expand the canon index into machine-readable naming, alias, relationship, and correction registries before producing additional decks, lorebooks, character exports, or visual collections.
 
-Suggested first path: `canon/registries/canon-index.md`
+Current path: [`canon/registries/canon-index.md`](canon/registries/canon-index.md)
+
+Suggested companions:
+
+- `canon/registries/nodes.json`
+- `canon/registries/relationships.json`
+- `canon/registries/aliases.json`
+- `canon/registries/corrections.json`
