@@ -167,6 +167,25 @@ A complete recovery-aware scenario demonstrates:
 
 **state sensed → demand reduced → consent clarified → care offered → memory retained → access restored or changed → repair or new quest emerges**
 
+## Knotwork Nexus Integration
+
+The Recovery Atlas participates in the wider Nexus as an operational layer, not a detached wellness appendix.
+
+Recovery state may change:
+
+- Creation Current status and next-safe-step fields
+- scenario pacing and available choices
+- access to high-intensity production modes
+- place states and steward responses
+- artifact release timing
+- repair obligations after contradiction or ignored correction
+
+Recovery records must never be used to manufacture authority over a person. Their purpose is to improve pacing, memory, conditions, consent clarity, and safe return.
+
+The minimum integrated loop is:
+
+**state recognized → signal named → pressure reduced → care action completed → memory recorded → re-entry bounded → work consolidated**
+
 ## Implementation Map
 
 - `skills/project-0-core-pack-v1/embercurrent/` handles high-voltage capture
@@ -175,6 +194,17 @@ A complete recovery-aware scenario demonstrates:
 - `skills/project-0-core-pack-v1/morning-reentry-brief/` restores continuity after sleep or recovery
 - `skills/project-0-core-pack-v1/boundary-keeper/` reduces pressure and protects limits
 - `skills/project-0-core-pack-v1/harbor/` supports receiving and stabilization
+- `docs/architecture/knotwork-nexus.md` connects recovery to canon, scenario, place, and artifact layers
+
+## Development Queue
+
+1. add a sensory regulation atlas
+2. define role-specific recovery protocols for stewards
+3. add recovery-state fields to Creation Current schemas
+4. create scenario templates for rupture, witness, repair, and reintegration
+5. diagram Embercurrent → Recovery Amber → Re-entry Corridor
+6. demonstrate recovery changing place state and future access
+7. create a compact creator-facing daily check-in
 
 ## Canon Locks
 
