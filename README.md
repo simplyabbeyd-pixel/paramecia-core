@@ -6,6 +6,7 @@ Central repository for the Paramecia, Triquel, and Hells Branch lore databases, 
 
 - [Canon Index](canon/registries/canon-index.md) — authoritative civilizational stack, Five Founding Paths / Nine Civilizational Paths resolution, Hells Branch laws, naming priorities, and integration rules
 - [Project Core Integration Map](docs/project-core-integration-map.md) — operational map for cosmology, canon governance, care ecology, characters, regions, scenarios, recovery systems, visual canon, and production order
+- [Core Chats Utilization Pass v2.0](docs/core-chats-utilization-pass-v2.md) — converts named canon into registries, relationship runtime, living-place systems, visual provenance, and production routes
 - [`canon/`](canon/) — authoritative and reviewable world material
 - [`docs/recovery/`](docs/recovery/) — recovery architecture and operational references
 - [`skills/project-0-core-pack-v1/`](skills/project-0-core-pack-v1/) — executable behavioral skills and workflows
