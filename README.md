@@ -50,6 +50,7 @@ The integrated recovery system lives in:
 
 - [`docs/recovery/recovery-atlas.md`](docs/recovery/recovery-atlas.md) — state map, consent colors, Morning Recovery Bundle, repair protocol, world integration, and implementation map
 - [`docs/recovery/recovery-operational-modules.md`](docs/recovery/recovery-operational-modules.md) — transition logic, care by energy level, sensory matrix, interruption and restart, evening closure, Drop Point template, and world-state consequences
+- [`docs/recovery/somatic-signal-library.md`](docs/recovery/somatic-signal-library.md) — bounded early-recognition signals, uncertainty rules, confirmation requirements, forbidden inferences, and smallest safe responses
 - [`docs/recovery/recovery-field-card.md`](docs/recovery/recovery-field-card.md) — compact operational reference and Drop Point record
 - [`skills/project-0-core-pack-v1/`](skills/project-0-core-pack-v1/) — executable behavioral skills for Embercurrent, Recovery Amber, Re-entry Corridor, Morning Re-entry, Harbor, Boundary Keeper, and related workflows
 
