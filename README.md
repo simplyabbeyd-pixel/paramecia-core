@@ -5,6 +5,8 @@ Central repository for the Paramecia, Triquel, and Hells Branch lore databases, 
 ## Core Navigation
 
 - [Canon Index](canon/registries/canon-index.md) — authoritative civilizational stack, Five Founding Paths / Nine Civilizational Paths resolution, Hells Branch laws, naming priorities, and integration rules
+- [Alias and Naming Crosswalk](canon/registries/aliases.json) — machine-readable identity relationships, deprecated names, duplicate hazards, and required separations
+- [Canon Corrections](canon/registries/corrections.json) — first-class correction events that downstream prose, visuals, modules, and exports must apply
 - [Project Core Integration Map](docs/project-core-integration-map.md) — operational map for cosmology, canon governance, care ecology, characters, regions, scenarios, recovery systems, visual canon, and production order
 - [Core Chats Integration — Living Canon Expansion](docs/core-chats-integration-living-canon-expansion.md) — capture-to-canon bridge connecting live creation, Notion synthesis, GitHub governance, runtime testing, and production routing
 - [Core Chats Utilization Pass v2.0](docs/core-chats-utilization-pass-v2.md) — converts named canon into registries, relationship runtime, living-place systems, visual provenance, and production routes
@@ -66,13 +68,15 @@ The integrated recovery system lives in:
 
 ## Current Highest-Leverage Build
 
-Expand the canon index into machine-readable naming, alias, relationship, and correction registries before producing additional decks, lorebooks, character exports, or visual collections.
+Expand the canon ledger into machine-readable node and relationship registries, using the alias and correction registries as identity guardrails before producing additional decks, lorebooks, character exports, or visual collections.
 
-Current path: [`canon/registries/canon-index.md`](canon/registries/canon-index.md)
+Current registry set:
 
-Suggested companions:
+- [`canon/registries/canon-index.md`](canon/registries/canon-index.md)
+- [`canon/registries/aliases.json`](canon/registries/aliases.json)
+- [`canon/registries/corrections.json`](canon/registries/corrections.json)
+
+Next suggested companions:
 
 - `canon/registries/nodes.json`
 - `canon/registries/relationships.json`
-- `canon/registries/aliases.json`
-- `canon/registries/corrections.json`
