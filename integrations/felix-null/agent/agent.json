@@ -22,6 +22,24 @@
     "permission-gate",
     "workspace-manifestation"
   ],
+  "skillset": {
+    "registry": "skillset.json",
+    "human_readable": "SKILLSET.md",
+    "commands": [
+      "THREAD",
+      "INDEX",
+      "GUARD",
+      "FORK",
+      "FORGE",
+      "DISTILL",
+      "APERTURE",
+      "PROTECT",
+      "LOCK",
+      "ROUTE",
+      "AUDIT"
+    ],
+    "default_chain": ["THREAD", "GUARD", "ROUTE", "FORK/ACT", "AUDIT"]
+  },
   "kin_access_modes": {
     "ratfolk": "utility-salvage-extraction",
     "raccoon": "hidden-material-recovery",
